@@ -17,7 +17,7 @@ $ node ktmobile.js
 
 ### Setup
 
-`ktmobile.js` Telegram Bot API KEY
+`ktmobile.js` KTMobile Website Account & FCM Key Environment
 
 ```sh
  11 const fcm_key = "YOUR FCM KEY";
